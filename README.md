@@ -2,7 +2,7 @@
 Task Boards berbasis website yang dibuat menggunakan react. Situs web ini berguna untuk menambahkan daftar dan progres pekerjaan (task).
 
 # Demo:
-https://yuneda.github.io/React-Task-Boards
+https://task-boards-projects.netlify.app/
 
 # Fitur:
 1. Menambah tugas
